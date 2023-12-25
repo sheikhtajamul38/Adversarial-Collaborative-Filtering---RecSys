@@ -14,14 +14,20 @@ Collaborative Filtering has long been a staple in recommendation systems. Howeve
 
 ## Installation
 
-To get started with SharpCF, follow these steps:
+To install SharpCF, follow these simple steps:
 
 ```bash
 git clone https://github.com/your-repo/SharpCF.git
 cd SharpCF
 
 
+This will clone the SharpCF repository into your local machine and change your current directory to the newly cloned SharpCF directory. Now, you are all set to begin using the implementation.
 
+Proceed to the "Usage" section for guidance on how to execute SharpCF and compare it with baseline models.
+
+---
+
+This section of the README provides clear instructions for cloning the repository and prepares the user to move on to the next steps in setting up and using SharpCF.
 
 ## Usage
 
