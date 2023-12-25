@@ -16,8 +16,10 @@ Collaborative Filtering has long been a staple in recommendation systems. Howeve
 
 To get started with SharpCF, follow these steps:
 
+```bash
 git clone https://github.com/your-repo/SharpCF.git
 cd SharpCF
+
 
 
 
