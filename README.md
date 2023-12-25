@@ -16,7 +16,7 @@ Collaborative Filtering has long been a staple in recommendation systems. Howeve
 
 To install SharpCF, follow these simple steps:
 
-- git clone [https://github.com/your-repo/SharpCF.git](https://github.com/sheikhtajamul38/Adversarial-Collaborative-Filtering---RecSys.git)
+- git clone https://github.com/sheikhtajamul38/Adversarial-Collaborative-Filtering---RecSys.git
 - cd SharpCF
 
 
