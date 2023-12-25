@@ -33,10 +33,3 @@ To run our implementation of SharpCF or compare it with baseline models, copy th
 This project is an implementation of the methodology described in the paper "Adversarial Collaborative Filtering for Free" (arXiv:2308.13541). We acknowledge the original authors for their groundbreaking work.
 
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
----
-
-This README provides a clear introduction to the purpose of the repository, acknowledging the original research and presenting your implementation with a focus on replicating and testing the described methodology.
-
