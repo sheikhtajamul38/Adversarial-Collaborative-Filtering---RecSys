@@ -16,7 +16,7 @@ Collaborative Filtering has long been a staple in recommendation systems. Howeve
 
 ```bash
 git clone https://github.com/your-repo/SharpCF.git
-cd SharpCF
+cd SharpCF```
 
 
 ## Usage
